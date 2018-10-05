@@ -10,4 +10,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![](src/assets/images/screenshots/nghotel.jpg)
 
-## View website [here](https://purebody-coffescrub.firebaseapp.com/)
+## View website [here](https://ng-hotel.firebaseapp.com/)
