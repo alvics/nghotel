@@ -7,5 +7,10 @@
 }
 
 mat-toolbar {
-  height: 80px;
+  height: 100px;
+  background-color: #fff !important;
+}
+
+.mat-icon-button {
+  color: black;
 }

@@ -32,6 +32,7 @@ import { HomeComponent } from './home/home.component';
 import { HeaderComponent } from './navigation/header/header.component';
 import { SidenavListComponent } from './navigation/sidenav-list/sidenav-list.component';
 import { NavtabsComponent } from './navigation/navtabs/navtabs.component';
+import { FooterComponent } from './ui/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -57,7 +58,8 @@ import { NavtabsComponent } from './navigation/navtabs/navtabs.component';
     HomeComponent,
     HeaderComponent,
     SidenavListComponent,
-    NavtabsComponent
+    NavtabsComponent,
+    FooterComponent
   ],
 
   imports: [
